@@ -3,7 +3,12 @@
 This is the official code repository for our paper GET. This guide provides comprehensive instructions for setting up the environment, preparing datasets, and running training and inference.
 
 
-<img src="asset/ranking_graph_cvpr26.png" alt="overview" width="900" height="700"/>
+<!-- <img src="asset/ranking_graph_cvpr26.png" alt="overview" width="900" height="700"/> -->
+
+---
+<p align="center"> <img src="asset/pipeline.png" alt="ECCV 2026 Image" width="1280"> </p>
+
+---
 
 
 ## Prerequisites (if only required)
